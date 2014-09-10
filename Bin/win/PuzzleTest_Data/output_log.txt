@@ -1,0 +1,24 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 460  (ID=0xe22)
+    Vendor:   NVIDIA
+    VRAM:     977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: L:\projects\PuzzleTest\bin\win\PuzzleTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading L:\projects\PuzzleTest\bin\win\PuzzleTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: L:\projects\PuzzleTest\bin\win\PuzzleTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading L:\projects\PuzzleTest\bin\win\PuzzleTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+Platform assembly: L:\projects\PuzzleTest\bin\win\PuzzleTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: L:\projects\PuzzleTest\bin\win\PuzzleTest_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 1.302951 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 126 unused Assets to reduce memory usage. Loaded Objects now: 626.
+Total: 2.351293 ms (FindLiveObjects: 0.125595 ms CreateObjectMapping: 0.049554 ms MarkObjects: 0.309290 ms  DeleteObjects: 0.885579 ms)
+
